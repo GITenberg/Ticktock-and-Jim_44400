@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42729
 description: Father was very angry when he found that Jim had traded a valuable watch
   for a "broken-down piece of horseflesh". Grades 5-7.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44400#Ticktock-and-Jim
 gutenberg_issued: '2013-12-09'
 gutenberg_type: Text
 identifiers:
