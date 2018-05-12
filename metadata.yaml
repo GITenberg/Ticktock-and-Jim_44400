@@ -1,0 +1,35 @@
+_repo: Ticktock-and-Jim_44400
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Dennis, Wesley
+    alias: Dennis, John Wesley
+    birthdate: 1903
+    deathdate: 1966
+    gutenberg_agent_id: '42730'
+    url: http://www.gutenberg.org/2009/agents/42730
+covers:
+- cover_type: archival
+  image_path: 44400-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Robertson, Keith
+    birthdate: 1914
+    gutenberg_agent_id: '42729'
+    url: http://www.gutenberg.org/2009/agents/42729
+description: Father was very angry when he found that Jim had traded a valuable watch
+  for a "broken-down piece of horseflesh". Grades 5-7.
+gutenberg_issued: '2013-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44400'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Horses -- Juvenile fiction'
+- !lcsh 'Boys -- Juvenile fiction'
+title: Ticktock and Jim
+url: http://www.gutenberg.org/ebooks/44400
